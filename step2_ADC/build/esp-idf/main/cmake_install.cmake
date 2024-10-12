@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/attar/Documents/FreeRTOS_tut_code/step2_ADC/main
+# Install script for directory: C:/Users/attar/Documents/FreeRTOS_tut_code/RTOS_PID_Proj/step2_ADC/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

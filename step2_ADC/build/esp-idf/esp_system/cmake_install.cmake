@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/attar/Documents/FreeRTOS_tut_code/step2_ADC/build/esp-idf/esp_system/port/cmake_install.cmake")
+  include("C:/Users/attar/Documents/FreeRTOS_tut_code/RTOS_PID_Proj/step2_ADC/build/esp-idf/esp_system/port/cmake_install.cmake")
 endif()
 

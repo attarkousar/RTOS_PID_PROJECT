@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: C:\Users\attar\Documents\FreeRTOS_tut_code\step2_ADC\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: C:\Users\attar\Documents\FreeRTOS_tut_code\RTOS_PID_Proj\step2_ADC\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 
